@@ -12,7 +12,6 @@ msgstr ""
 "Last-Translator: \n"
 "Language-Team: \n"
 "Plural-Forms: \n"
-
 #. placeholder {0}: user.data.mute.reason
 #: src/components/_user/user/UserHeader.tsx:409
 msgid " - Reason: {0}"
@@ -4116,7 +4115,7 @@ msgstr "Oké oké, niet slecht"
 
 #: src/utils/translations.tsx:42
 msgid "Omg, so OP"
-msgstr "Omg, dus OP"
+msgstr "Omg, zo OP"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:70
 msgid "One step away from legendary..."
@@ -4151,11 +4150,11 @@ msgstr "Open <0>{count}</0>"
 
 #: src/components/_economy/inventory/case/OpenCaseModal.tsx:471
 msgid "Open case"
-msgstr "Open zaak"
+msgstr "Open kist"
 
 #: src/components/_economy/transaction/TransactionList.tsx:81
 msgid "Open Case"
-msgstr "Open Case"
+msgstr "Open Kist"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:204
 msgid "Open Cases"
@@ -4171,15 +4170,15 @@ msgstr "Open e-mail"
 
 #: src/utils/translations.tsx:96
 msgid "Open it to get a better random item"
-msgstr "Open hem om een beter willekeurig item te krijgen"
+msgstr "Open het om een beter willekeurig item te krijgen"
 
 #: src/utils/translations.tsx:93
 msgid "Open it to get a random item"
-msgstr "Open hem om een willekeurig item te krijgen"
+msgstr "Open het om een willekeurig item te krijgen"
 
 #: src/components/_user/premium/PremiumFeatureList.tsx:47
 msgid "Open multiple <0>Cases</0> at same time"
-msgstr "Open meerdere <0>Cases</0> tegelijk"
+msgstr "Open meerdere <0>Kisten</0> tegelijk"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:349
 msgid "Open the chat"
@@ -4406,7 +4405,7 @@ msgstr "Precisie"
 
 #: src/pages/shop/index.tsx:165
 msgid "Premium"
-msgstr "Premie"
+msgstr "Premium"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1121
 msgid "Premium activated"
@@ -4497,7 +4496,7 @@ msgstr "Kans op een kritieke treffer"
 #: src/components/_economy/company/ProduceButton.tsx:102
 #: src/components/_user/mission/mission.frontConfig.tsx:422
 msgid "Produce"
-msgstr "Groenten en fruit"
+msgstr "Produceer"
 
 #: src/components/_economy/company/ProduceAllButton.tsx:90
 msgid "Produce All"
@@ -4539,7 +4538,7 @@ msgstr "De productie is in<0/> vol, je moet beginnen met de productie!"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:712
 msgid "Production is full"
-msgstr "De productie is volop"
+msgstr "De productie is vol"
 
 #: src/components/_user/user/MyAvatar.tsx:29
 msgid "Profile"
@@ -4547,7 +4546,7 @@ msgstr "Profiel"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1244
 msgid "Promoted to Commander"
-msgstr "Bevorderd tot commandant"
+msgstr "Gepromoveerd tot commandant"
 
 #: src/components/_political/partyMotion/PartyMotionFormModal.tsx:101
 #: src/components/_political/partyMotion/PartyMotionList.tsx:48
@@ -4625,7 +4624,7 @@ msgstr "Snel onderdelen uit elkaar halen"
 #: src/components/_political/partyMotion/partyMotion.frontConfig.tsx:135
 #: src/components/_military/damageRanking/DamageRankingList.tsx:251
 msgid "Ranking loot chance"
-msgstr "Rangschikking van lootkans"
+msgstr "Lootkans van klassement"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1484
 msgid "Ranking Reward"
@@ -4792,7 +4791,7 @@ msgstr "Regio-overdracht"
 
 #: src/components/_layout/LoadingScreenContent.tsx:20
 msgid "regions"
-msgstr "Regio's"
+msgstr "regio's"
 
 #: src/components/_political/country/CountryHeader.tsx:114
 msgid "Regions"
@@ -4809,7 +4808,7 @@ msgstr "Versterkte Laarzen"
 
 #: src/utils/translations.tsx:173
 msgid "Reinforced Chest"
-msgstr "Versterkte Borst"
+msgstr "Versterkte Borstbescherming"
 
 #: src/utils/translations.tsx:191
 msgid "Reinforced Gloves"
@@ -4894,12 +4893,12 @@ msgstr "Verwijderd uit de Militaire Eenheid"
 
 #: src/components/_economy/company/CompanyDropdown.tsx:211
 msgid "Rename"
-msgstr "Hernoeming"
+msgstr "Hernoem"
 
 #: src/components/_economy/company/CompanyRenameFormModal.tsx:66
 #: src/components/_economy/company/CompanyRenameFormModal.tsx:82
 msgid "Rename company"
-msgstr "Hernoem van het bedrijf"
+msgstr "Hernoem het bedrijf"
 
 #: src/components/_political/partyMotion/partyMotion.frontConfig.tsx:96
 #: src/components/_political/partyMotion/partyMotion.frontConfig.tsx:102
@@ -4958,7 +4957,7 @@ msgstr "Herschikking"
 
 #: src/components/_military/hit/HitButton.tsx:284
 msgid "Resist"
-msgstr "Weerstaan"
+msgstr "Verzet"
 
 #: src/pages/region/[regionId]/index.tsx:125
 msgid "Resistance"
@@ -5032,7 +5031,7 @@ msgstr "Ronde <0>#{0}</0> in <1/> staat op het punt te eindigen!"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:800
 msgid "Round about to end"
-msgstr "Rond bijna einde"
+msgstr "Rond bijna ten einde"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:779
 msgid "Round ended"
@@ -5236,7 +5235,7 @@ msgstr "Stel een referrer in"
 
 #: src/components/_political/law/law.frontConfig.tsx:338
 msgid "Set a welcome article for your country"
-msgstr "Schrijf een welkomstartikel voor jouw land"
+msgstr "Stel een welkomstartikel voor jouw land in"
 
 #: src/components/_political/law/law.frontConfig.tsx:343
 msgid "Set a welcome article for your country<0/>"
@@ -5244,7 +5243,7 @@ msgstr "Stel een welkomstartikel in voor jouw land<0/>"
 
 #: src/components/_political/law/law.frontConfig.tsx:353
 msgid "Set country color"
-msgstr "Vaste landkleur"
+msgstr "Stel landkleur in"
 
 #: src/components/_political/partyMotion/partyMotion.frontConfig.tsx:88
 msgid "Set new party ethics configuration:"
@@ -5257,11 +5256,11 @@ msgstr "Stel partijethiek vast"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:400
 msgid "Set Profile Picture"
-msgstr "Set profielfoto"
+msgstr "Stel profielfoto in"
 
 #: src/components/_political/law/law.frontConfig.tsx:387
 msgid "Set specialization item"
-msgstr "Set-specialisatie-item"
+msgstr "Stel specialisatie in"
 
 #. placeholder {0}: ts[law.data.itemCode]
 #: src/components/_political/law/law.frontConfig.tsx:393
@@ -5278,7 +5277,7 @@ msgstr "Gebruikersnaam instellen"
 
 #: src/components/_political/law/law.frontConfig.tsx:337
 msgid "Set welcome article"
-msgstr "Set welkomstartikel"
+msgstr "Stel welkomstartikel in"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:401
 msgid "Set your profile picture"
@@ -5301,7 +5300,7 @@ msgstr "Winkel"
 
 #: src/pages/user/[userId]/bans.tsx:119
 msgid "Show Inventory"
-msgstr "Tentoonstellingsinventaris"
+msgstr "Toon inventaris"
 
 #: src/components/_military/damageRanking/DamageRankingList.tsx:216
 msgid "Show more"
@@ -5343,7 +5342,7 @@ msgstr "Skinpack ontgrendeld! Alle skins zijn uitgerust met uitrusting!"
 
 #: src/components/_other/shop/SkinCollectionModal.tsx:91
 msgid "Skin Packs"
-msgstr "Huidpakketten"
+msgstr "Skin pakketten"
 
 #: src/components/_other/shop/ShopHeader.tsx:22
 #: src/pages/user/[userId]/index.tsx:91
@@ -5360,11 +5359,11 @@ msgstr "Sla tutorial over"
 
 #: src/utils/translations.tsx:25
 msgid "Sniper"
-msgstr "Sluipschutter"
+msgstr "Sluipschuttersgeweer"
 
 #: src/components/_economy/company/CompanyList.tsx:83
 msgid "Some of your companies are disabled."
-msgstr "Sommige van je bedrijven zijn gehandicapt."
+msgstr "Sommige van je bedrijven zijn uitgeschakeld."
 
 #: src/components/_layout/LayoutMapOptions.tsx:306
 msgid "Sound"
@@ -5549,7 +5548,7 @@ msgstr "Supporterplan"
 
 #: src/components/_user/modals/PremiumModal.tsx:31
 msgid "Supporter Plan"
-msgstr "Supporter Plan"
+msgstr "Supporterplan"
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:161
 msgid "Supreme Commander"
