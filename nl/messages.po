@@ -1796,7 +1796,7 @@ msgstr "Gefeliciteerd! U bent gekozen als de nieuwe leider van <0/>"
 #. placeholder {0}: data.countryName
 #: src/components/_user/notification/notification.frontConfig.tsx:207
 msgid "Congratulations! You have been elected as the new president of {0}"
-msgstr "Gefeliciteerd! U bent gekozen als de nieuwe voorzitter van {0}"
+msgstr "Gefeliciteerd! U bent gekozen als de nieuwe president van {0}"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:321
 msgid "Congratulations! You have been elected to the council of <0/>"
@@ -2520,7 +2520,7 @@ msgstr "Ethiek"
 
 #: src/pages/party/[partyId]/index.tsx:51
 msgid "Ethics are bonuses from the party, applied when the president is a member of this party."
-msgstr "Ethiek zijn bonussen van de partij, toegepast wanneer de voorzitter lid is van deze partij."
+msgstr "Ethiek zijn bonussen van de partij, toegepast wanneer de president lid is van deze partij."
 
 #: src/components/_political/partyMotion/PartyMotionTypeSelect.tsx:83
 msgid "Ethics motions"
@@ -2604,7 +2604,7 @@ msgstr "Favorieten"
 #: src/components/_layout/LayoutRightIcons.tsx:335
 #: src/components/_layout/MoreButtonNav.tsx:86
 msgid "Feed"
-msgstr "Eet"
+msgstr "Feed"
 
 #: src/components/_user/worker/WorkerItem.tsx:110
 msgid "Fidelity Bonus"
